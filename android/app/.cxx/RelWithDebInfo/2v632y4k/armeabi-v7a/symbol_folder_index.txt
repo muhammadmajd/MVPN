@@ -1,0 +1,1 @@
+/Volumes/data/work2024/work_2025/vpn/FreeVPN-App-Flutter-master/build/app/intermediates/cxx/RelWithDebInfo/2v632y4k/obj/armeabi-v7a

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/muhammad/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/muhammad/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Volumes/data/work2024/work_2025/vpn/FreeVPN-App-Flutter-master/android/app/.cxx/Debug/392b1o2u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/muhammad/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Volumes/data/work2024/work_2025/vpn/FreeVPN-App-Flutter-master/android/app/.cxx/Debug/392b1o2u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

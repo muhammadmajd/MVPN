@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807584637430",
+    "project_id": "mvpn-8d600",
+    "storage_bucket": "mvpn-8d600.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807584637430:android:5a938495dc8f8ea5ace7d7",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.freeVpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjbzhDlFTyppLqQqk0GINsI1ockiFFrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807584637430:android:935875eade8411a0ace7d7",
+        "android_client_info": {
+          "package_name": "com.maitechno.mVpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjbzhDlFTyppLqQqk0GINsI1ockiFFrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
